@@ -21,4 +21,4 @@
 4-secendly i connected the power pin (red cable) of the micro servo to the 5V pin of arduino 
 5-thirdlly i connected the ground pin (black cable) of the micro servo to the digital -1 pin of breadboard
 6-lastly i connected the SCL pin (black cable) of the arduino to the digital -5 pin of breadboard
-programming arduino on arduino IDE using this code ()
+7-programming arduino on arduino IDE using this code ()
