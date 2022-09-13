@@ -34,4 +34,4 @@
 -breadboard
 -battery
 (see https://www.tinkercad.com/things/9HT4UWa66IS-fantabulous-bombul-jarv/editel to know what i did & the final look)
-3-7-programming arduino on arduino IDE using this code ()
+3-programming arduino on arduino IDE using this code ()
