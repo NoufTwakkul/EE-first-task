@@ -22,7 +22,7 @@
 4-secendly i connected the power pin (red cable) of the micro servo to the 5V pin of arduino 
 5-thirdlly i connected the ground pin (black cable) of the micro servo to the digital -1 pin of breadboard
 6-lastly i connected the SCL pin (black cable) of the arduino to the digital -5 pin of breadboard
-7-programming arduino on arduino IDE using this code ()
+7-programming arduino on arduino IDE using this code (https://github.com/NoufTwakkul/EE-first-task/blob/main/servo%20motor%20code.txt)
 
 
 **designing the stepper motor: https://www.tinkercad.com/things/9HT4UWa66IS-fantabulous-bombul-jarv/editel
@@ -34,4 +34,4 @@
 -breadboard
 -battery
 (see https://www.tinkercad.com/things/9HT4UWa66IS-fantabulous-bombul-jarv/editel to know what i did & the final look)
-3-programming arduino on arduino IDE using this code ()
+3-programming arduino on arduino IDE using this code (https://github.com/NoufTwakkul/EE-first-task/blob/main/stepper%20motor%20code.txt)
