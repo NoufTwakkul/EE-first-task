@@ -9,7 +9,7 @@
 4-secend i connected each +&- of the battery to the -&+ of the breadboard respectively 
 5-i connected the brown cable from pin 3 on breadboard to the GND pin on arduino 
 6-connected the yellow cable to the digital pin 12 from digital pin 1
-7-programming arduino on arduino IDE using this code ()
+7-programming arduino on arduino IDE using this code (https://github.com/NoufTwakkul/EE-first-task/blob/main/brushless%20motor%20code.txt)
 
 
 **designing the servo motor: https://www.tinkercad.com/things/dn9xzdWBlDF-amazing-migelo-wluff/editel
